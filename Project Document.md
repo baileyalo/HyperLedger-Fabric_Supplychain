@@ -51,3 +51,5 @@ This  sample  demonstrates  an  end-to-end  blockchain  application  that  conne
 # Project Plan
 
  ![Project Plan](https://i.postimg.cc/Fz5bPd5m/Plan.jpg)
+ 
+Link: https://georgebrowncollege-my.sharepoint.com/:x:/r/personal/101228834_georgebrown_ca/_layouts/15/Doc.aspx?sourcedoc=%7B16C358B1-2568-4088-8C7D-0D14F0E7D8C9%7D&file=Project%20Plan.xlsx&action=default&mobileredirect=true
