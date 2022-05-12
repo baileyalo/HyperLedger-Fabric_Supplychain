@@ -13,7 +13,7 @@ sudo usermod -aG docker ${USER}
 ```
 Close the ternimal and open again.
 ```shell
-git clone https://github.com/MakTom/HyperLedger-Fabric-Supplychain
+https://github.com/baileyalo/HyperLedger-Fabric_Supplych
 cd HyperLedger-Fabric-Supplychain/test-network
 ./network.sh up
 ```
